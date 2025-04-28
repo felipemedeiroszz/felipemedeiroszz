@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Felipe Medeiros
+# 💻 Felipe Medeiros
 
 **`Desenvolvedor`**
 
