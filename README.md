@@ -1,4 +1,4 @@
-# 💻 Felipe Medeiros
+# 💻 Luís Felipe Medeiros
 
 **`Desenvolvedor`**
 
