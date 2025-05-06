@@ -2,7 +2,7 @@
 
 **`Desenvolvedor`**
 
-Me chamo Luís Felipe Medeiros, tenho 21 anos e sou natural de São Joaquim da Barra-Sp. Concluí o ensino médio na Etec Pedro Badran. Atualmente, estou cursando Engenharia da Computação na UNIFRAN. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[LFINFO_SJB](https://www.youtube.com/@LFINFO_SJB)", onde ensino a criar projetos web, Manutenções de hardware e tudo sobre Tecnologia! Aqui esta  meu  Instagram Profissional, com o perfil chamado "[LFINFO_SJB](https://www.instagram.com/lfinfo_sjb/)". !!
+Me chamo Luís Felipe Medeiros, tenho 21 anos e sou natural de São Joaquim da Barra-Sp. Concluí o ensino médio na Etec Pedro Badran. Atualmente, estou cursando Engenharia da Computação na UNIFRAN. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[LFINFO_SJB](https://www.youtube.com/@LFINFO_SJB)", onde ensino a criar projetos web, Manutenções de hardware e tudo sobre Tecnologia! Aqui esta  meu  Instagram Profissional, com o perfil chamado "[LFINFO_SJB](https://www.instagram.com/lfinfo_sjb/)". 
 
 <p align="left">
     <a href="https://www.youtube.com/@LFINFO_SJB?sub_confirmation=1">
