@@ -1,4 +1,4 @@
-# 💻 Luís Felipe Medeiros
+# 💻 Luís Felipe Medeiros Riquieri
 
 **`Desenvolvedor`**
 
