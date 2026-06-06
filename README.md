@@ -1,176 +1,111 @@
-# 💻 Luís Felipe Medeiros Riquieri
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00C2FF&height=220&section=header&text=Luís%20Felipe%20Medeiros&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 
-**`Desenvolvedor`**
+<h1 align="center">
+    👨‍💻 Luís Felipe Medeiros Riquieri
+</h1>
 
-Me chamo Luís Felipe Medeiros, tenho 21 anos e sou natural de São Joaquim da Barra-Sp. Concluí o ensino médio na Etec Pedro Badran. Atualmente, estou cursando Engenharia da Computação na UNIFRAN. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[LFINFO_SJB](https://www.youtube.com/@LFINFO_SJB)", onde ensino a criar projetos web, Manutenções de hardware e tudo sobre Tecnologia! Aqui esta  meu  Instagram Profissional, com o perfil chamado "[LFINFO_SJB](https://www.instagram.com/lfinfo_sjb/)". 
+<h3 align="center">
+    Desenvolvedor Full Stack • Hardware Specialist • Criador de Conteúdo Tech
+</h3>
 
-<p align="left">
-    <a href="https://www.youtube.com/@LFINFO_SJB?sub_confirmation=1">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC0YtuR4Q7kMIJIesmfX3j5A?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a>
+<p align="center">
     <a href="https://www.youtube.com/@LFINFO_SJB">
-        <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC0YtuR4Q7kMIJIesmfX3j5A?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-        />
-    </a> 
-    <a href="https://github.com/felipemedeiroszz?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/felipemedeiroszz?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
+        <img src="https://img.shields.io/youtube/channel/subscribers/UC0YtuR4Q7kMIJIesmfX3j5A?style=for-the-badge&logo=youtube&color=red" />
     </a>
-    <a href="https://github.com/felipemedeiroszz?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/felipemedeiroszz?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
+    <a href="https://www.instagram.com/lfinfo_sjb/">
+        <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    </a>
+    <a href="https://github.com/felipemedeiroszz">
+        <img src="https://img.shields.io/github/followers/felipemedeiroszz?style=for-the-badge&logo=github" />
     </a>
 </p>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## 🚀 Sobre Mim
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SASS" 
-    title="SASS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Laravel" 
-    title="Laravel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+🎓 Estudante de **Engenharia da Computação** na **UNIFRAN**
 
-<br/>
-<br/>
+💻 Desenvolvedor Full Stack apaixonado por tecnologia e inovação
 
-### 📊 Estatísticas
+🔧 Experiência em manutenção de hardware e infraestrutura
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=felipemedeiroszz&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+📚 Criador de conteúdo no canal **LFINFO_SJB**
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipemedeiroszz&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+🌎 Sempre desenvolvendo novos projetos e aprendendo novas tecnologias
+
+---
+
+## 🌐 Redes Sociais
+
+<p align="center">
+<a href="https://www.youtube.com/@LFINFO_SJB">
+<img src="https://skillicons.dev/icons?i=youtube" />
+</a>
+
+<a href="https://www.instagram.com/lfinfo_sjb/">
+<img src="https://skillicons.dev/icons?i=instagram" />
+</a>
+
+<a href="https://github.com/felipemedeiroszz">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+</p>
+
+---
+
+## 🛠️ Tecnologias
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind,bootstrap,sass,php,laravel,jquery,python,git,github,vscode,mysql" />
 
 </p>
+
+---
+
+## 📈 Estatísticas GitHub
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipemedeiroszz&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipemedeiroszz&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🔥 Contribuições
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=felipemedeiroszz&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🐍 Snake Animation
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/felipemedeiroszz/felipemedeiroszz/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+---
+
+## 💡 Atualmente
+
+🚀 Desenvolvendo aplicações web modernas
+
+📱 Projetos React, Next.js e Laravel
+
+⚙️ Automações e sistemas personalizados
+
+🎥 Produzindo conteúdo para o canal LFINFO_SJB
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:0D1117&height=120&section=footer"/>
